@@ -12,12 +12,17 @@
 
 **Currently:**
 
-- Fullstack Engineer at [Capx Ai](https://www.capx.ai)
 - Blockchain Developer & Designer at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
+
+**previous:**
+
+- Frontend developer at [Miracle](https://www.miracletrade.com)
+- Fullstack Engineer at [Capx](https://www.capx.ai)
 
 Projects I'm working on:
 
 - [Fizzylabs.ai](https://www.fizzylabs.ai/dashboard)
+- [Miracle - Trading Reimagined](https://apps.apple.com/in/app/miracle-trading-reimagined/id6757129362)
 
 Achievements and Projects:
 

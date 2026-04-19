@@ -21,9 +21,11 @@
 
 Projects I'm working on:
 
+- [Orbital](https://github.com/Oxkai/orbital)
 - [Fizzylabs.ai](https://www.fizzylabs.ai/dashboard)
 - [Miracle - Trading Reimagined](https://apps.apple.com/in/app/miracle-trading-reimagined/id6757129362)
 - [Miracle](https://www.miracletrade.com)
+
 
 Achievements and Projects:
 

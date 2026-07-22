@@ -1,7 +1,7 @@
 **About Me 😄**
 
 - Hey there, I am Ajay Odedra
-- A 3rd Year Undergraduate student in Mathematics and Computing at [IIT Roorkee](https://www.iitr.ac.in/).
+- A 4rd Year Undergraduate student in Mathematics and Computing at [IIT Roorkee](https://www.iitr.ac.in/).
 
 ---
 
@@ -22,7 +22,8 @@
 
 Projects I'm working on:
 
-- [Orbital](https://github.com/Oxkai/orbital)
+- [Orbital](https://github.com/Oxkai/orbital.hook)
+- [Orbswap](https://github.com/Oxkai/orbswap-core)
 - [Fizzylabs.ai](https://www.fizzylabs.ai/dashboard)
 - [Miracle - Trading Reimagined](https://apps.apple.com/in/app/miracle-trading-reimagined/id6757129362)
 - [Miracle](https://www.miracletrade.com)

@@ -1,7 +1,7 @@
 **About Me 😄**
 
 - Hey there, I am Ajay Odedra
-- A 4rd Year Undergraduate student in Mathematics and Computing at [IIT Roorkee](https://www.iitr.ac.in/).
+- A 4th Year Undergraduate student in Mathematics and Computing at [IIT Roorkee](https://www.iitr.ac.in/).
 
 ---
 

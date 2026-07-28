@@ -28,6 +28,7 @@ Projects I'm working on:
 - [Miracle - Trading Reimagined](https://apps.apple.com/in/app/miracle-trading-reimagined/id6757129362)
 - [Miracle](https://www.miracletrade.com)
 - [Sarvam.dashboard](https://sarvam-ai-five.vercel.app)
+- [PDF Toolkit](https://www.glaze.app/app/pdf-toolkit-wmBfSO)
 
 Achievements and Projects:
 

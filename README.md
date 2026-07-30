@@ -35,7 +35,8 @@ Achievements and Projects:
 - 1st prize in Uniswap theme prize at Uniswap Hook Incubator (UHI9) 2026 [Orbital](https://github.com/Oxkai/Orbital.Hook)
 - 1st Prize in Anon-Aadhar track at EthIndia 2024 ([Tollchain](https://devfolio.co/projects/tollchain-3125))
 - 2nd Prize in arbitrum best project track winner EthGloble agentic ethereum 2025 [Collosseum](https://ethglobal.com/showcase/colosseum-mzigw)
-- baseindia finallist [neom](https://devfolio.co/projects/neom-ba56)
+- baseindia finalist [neom](https://devfolio.co/projects/neom-ba56)
+- glaze awards Finalist [PDF toolkit](https://github.com/Oxkai/Toolkit)
 
 Reach out to me!
 
